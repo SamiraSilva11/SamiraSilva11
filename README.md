@@ -1,3 +1,21 @@
+<img src="https://github.com/SamiraSilva11/SamiraSilva11/blob/main/images/Samira%20Silva-5.gif" width="100%">
+
+
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/samira-silva--" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/samirasilvase)" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+ 
+
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Samira Silva</h1>
 <h3 align="left">Passionate software engineer based in Florida, specializing in frontend development. Committed to mastering various aspects of software engineering while continually broadening my expertise. Let's collaborate and build innovative solutions together!</h3>
 
