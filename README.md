@@ -1,4 +1,4 @@
-<img src="https://github.com/SamiraSilva11/SamiraSilva11/blob/main/images/Samira%20Silva-5.gif" width="100%">
+<img src="https://github.com/SamiraSilva11/SamiraSilva11/blob/main/images/Samira%20Silva-6.gif" width="100%">
 
 
 
