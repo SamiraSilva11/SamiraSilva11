@@ -21,11 +21,16 @@
 
 - ⚡ Fun fact **I am a <font color="purple">purple</font> belt in brazilian jiujitsu, I was also world champion in 2022 🥇**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/samirasilvase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samirasilvase" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/samira-silva--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/samira-silva--" height="30" width="40" /></a>
-</p>
+<div align="center">
+
+<h1 align="center">Connect with me:</h1>
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/samirasilva11)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samira-silva--)
+[![X-formely-Twitter Badge](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.twitter.com/samirasilvase)
+
+</div>
+
 
 <div align="center">
 
