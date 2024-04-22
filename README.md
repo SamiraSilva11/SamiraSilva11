@@ -10,6 +10,8 @@
   <a href="https://twitter.com/samirasilvase)" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
+
+
  
 
 </p>
@@ -27,7 +29,8 @@
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/samirasilva11)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samira-silva--)
-[![X-formely-Twitter Badge](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.twitter.com/samirasilvase)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fsamirasilvase&style=for-the-badge&logo=x&logoColor=white&label=Twitter&labelColor=black&color=purple)
+
 
 </div>
 
