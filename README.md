@@ -13,16 +13,14 @@
 
 <h1 align="center">Connect with me:</h1>
 
-<a href="https://github.com/samirasilva11" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/build--brightgreen?style=for-the-badge&logo=github&logoColor=white&label=Github&labelColor=black&color=purple">
+<a href="https://github.com/samirasilva11">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>
-
-<a href="https://www.linkedin.com/in/samira-silva--" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/build--brightgreen?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=%230A66C2&color=purple">
+<a href="https://www.linkedin.com/in/samira-silva--">
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
-
-<a href="https://twitter.com/samirasilvase)" target="_blank">
-<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.twitter.com%2Fsamirasilvase&style=for-the-badge&logo=x&logoColor=white&label=twitter&labelColor=black&color=purple">
+<a href="https://twitter.com/samirasilvase)">
+<img alt="X (formerly Twitter) URL" src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white">
 </a>
 
 
@@ -53,8 +51,8 @@
 | Programing Languages | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 | Frontend Development |  [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://reactjs.org/) |
 | Backend Development  | [![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) |
-| Database             | [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/) |
-| Software             | [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html) [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/) |
+| Database             | [![Microsoft SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)](https://your-link-here) [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/) |
+| Software             | [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html) [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/) [![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)](https://www.powerbi.com/) [![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/) |
 | Automation           | [![IFTTT](https://img.shields.io/badge/IFTTT-000000.svg?style=for-the-badge&logo=IFTTT&logoColor=white)](https://ifttt.com/)|
 | Other                | [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)|
 
