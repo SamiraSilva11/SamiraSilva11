@@ -29,7 +29,8 @@
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/samirasilva11)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samira-silva--)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fsamirasilvase&style=for-the-badge&logo=x&logoColor=white&label=Twitter&labelColor=black&color=purple)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.twitter.com%2Fsamirasilvase&style=for-the-badge&logo=x&logoColor=white&label=twitter&labelColor=black&color=purple)
+
 
 
 </div>
