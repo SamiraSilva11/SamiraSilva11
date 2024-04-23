@@ -2,20 +2,6 @@
 
 
 
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/samira-silva--" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/samirasilvase)" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-
-
- 
-
-</p>
-
 
 
 <h1 align="center">Hi 👋🏻,</h1>
@@ -27,9 +13,19 @@
 
 <h1 align="center">Connect with me:</h1>
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/samirasilva11)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samira-silva--)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.twitter.com%2Fsamirasilvase&style=for-the-badge&logo=x&logoColor=white&label=twitter&labelColor=black&color=purple)
+<a href="https://github.com/samirasilva11" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/build--brightgreen?style=for-the-badge&logo=github&logoColor=white&label=Github&labelColor=black&color=purple">
+</a>
+
+<a href="https://www.linkedin.com/in/samira-silva--" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/build--brightgreen?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=%230A66C2&color=purple">
+</a>
+
+<a href="https://twitter.com/samirasilvase)" target="_blank">
+<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.twitter.com%2Fsamirasilvase&style=for-the-badge&logo=x&logoColor=white&label=twitter&labelColor=black&color=purple">
+</a>
+
+
 
 
 
