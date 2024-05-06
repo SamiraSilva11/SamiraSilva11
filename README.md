@@ -13,15 +13,7 @@
 
 <h1 align="center">Connect with me:</h1>
 
-<a href="https://github.com/samirasilva11">
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/samira-silva--">
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
-</a>
-<a href="https://twitter.com/samirasilvase)">
-<img alt="X (formerly Twitter) URL" src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white">
-</a>
+<a href="https://github.com/samirasilva11"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a> <a href="https://www.linkedin.com/in/samira-silva--"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> <a href="https://twitter.com/samirasilvase)"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 
 
 
